@@ -48,7 +48,7 @@ Explore my portfolio to discover examples of my work, and feel free to contact m
 
 ## Screenshots
 
-![My portfolio maissoum.dev](./assets/preview.png)
+![My portfolio maissoum.dev](https://github.com/maissoumaboudrare/portfolio-maissoum-dev/blob/main/public/assets/preview.png)
 
 ## Setup
 
