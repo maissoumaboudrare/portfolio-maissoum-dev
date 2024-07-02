@@ -59,7 +59,7 @@ export const ContactMe = () => {
           className="flex-1 cursor-default"
           url="https://www.instagram.com/maissoum.dev/"
           name="maissoum.dev"
-          image="https://scontent.cdninstagram.com/v/t51.2885-19/432721232_467964668905408_3263302185316715409_n.jpg?stp=dst-jpg_s150x150&_nc_cat=100&ccb=1-7&_nc_sid=07cfa3&_nc_ohc=G3UwK0Ji8qYQ7kNvgFbd48I&_nc_ht=scontent.cdninstagram.com&oh=00_AYCNRg6vG6osT7W4ug2br2bsprA_0bj6J4OkHGmDFbyZyQ&oe=667FBC7B"
+          image="https://yt3.googleusercontent.com/TqClVWBSeycRwJjFmzwrtR-579veEbqSH9PDP2hmaaM1HXtzFxE21Kii4bCmPalK415kqCxEhg=s176-c-k-c0x00ffffff-no-rj"
           mediumImage="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/800px-Instagram_logo_2022.svg.png"
           description="My coder life 🔥"
         />

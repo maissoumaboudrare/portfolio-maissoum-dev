@@ -48,7 +48,7 @@ Explore my portfolio to discover examples of my work, and feel free to contact m
 
 ## Screenshots
 
-![Capture d'écran du portfolio](./img/screenshot.png)
+![My portfolio maissoum.dev](./assets/preview.png)
 
 ## Setup
 

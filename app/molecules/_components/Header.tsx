@@ -32,7 +32,7 @@ export const Header = () => {
                 buttonVariants({ variant: "outline" }),
                 "size-6 p-0 text-lg"
               )}
-              href="https://github.com/rardooba"
+              href="https://github.com/maissoumaboudrare"
               target="_blank"
             >
               <FaGithub />
